@@ -43,6 +43,7 @@ export default class Table extends React.Component {
                     <p className="headerNames" style = {{backgroundColor: '#fffbd5', paddingTop: "30px", paddingBottom:"30px", fontSize: "1.3em"}}>Phone</p>
                     <p className="headerNames" style = {{backgroundColor: '#fffbd5', paddingTop: "30px", paddingBottom:"30px", fontSize: "1.3em"}}>Email</p>
                     <p className="headerNames"style = {{backgroundColor: '#fffbd5', paddingTop: "30px", paddingBottom:"30px", fontSize: "1.3em"}}>DOB</p>
+
                 </div>
                 {console.log(this.state.filter)}
                 <TableBody 
