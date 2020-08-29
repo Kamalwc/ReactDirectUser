@@ -13,7 +13,7 @@ export default class Table extends React.Component {
     }
 
    componentDidMount(){
-    axios.get("https://randomuser.me/api/?results=5&nat=us").then( results => {
+    axios.get("https://randomuser.me/api/?results=20&nat=us").then( results => {
         this.setState({ users: results.data.results })
     })
     
