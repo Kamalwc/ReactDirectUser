@@ -5,7 +5,7 @@
 
 ## Table of Contents 
 * [project URL](#URL)
-* [Contributing](#contributing)
+* [contributing](#contributing)
 
 ## URL
 * [URL](https://kamalwc.github.io/ReactDirectUser/)
