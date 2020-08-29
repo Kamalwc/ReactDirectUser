@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ReactDirectUser/static/css/main.cd1231b9.chunk.css",
-    "main.js": "/ReactDirectUser/static/js/main.ebc249bd.chunk.js",
-    "main.js.map": "/ReactDirectUser/static/js/main.ebc249bd.chunk.js.map",
+    "main.js": "/ReactDirectUser/static/js/main.6c6b3188.chunk.js",
+    "main.js.map": "/ReactDirectUser/static/js/main.6c6b3188.chunk.js.map",
     "runtime-main.js": "/ReactDirectUser/static/js/runtime-main.17961703.js",
     "runtime-main.js.map": "/ReactDirectUser/static/js/runtime-main.17961703.js.map",
     "static/js/2.6f76eca0.chunk.js": "/ReactDirectUser/static/js/2.6f76eca0.chunk.js",
     "static/js/2.6f76eca0.chunk.js.map": "/ReactDirectUser/static/js/2.6f76eca0.chunk.js.map",
     "index.html": "/ReactDirectUser/index.html",
-    "precache-manifest.0b7ee8d9ff236914b2f899a805aab250.js": "/ReactDirectUser/precache-manifest.0b7ee8d9ff236914b2f899a805aab250.js",
+    "precache-manifest.b5d6dc3d429ae4ea0382e3fae7ec7e07.js": "/ReactDirectUser/precache-manifest.b5d6dc3d429ae4ea0382e3fae7ec7e07.js",
     "service-worker.js": "/ReactDirectUser/service-worker.js",
     "static/css/main.cd1231b9.chunk.css.map": "/ReactDirectUser/static/css/main.cd1231b9.chunk.css.map",
     "static/js/2.6f76eca0.chunk.js.LICENSE.txt": "/ReactDirectUser/static/js/2.6f76eca0.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.17961703.js",
     "static/js/2.6f76eca0.chunk.js",
     "static/css/main.cd1231b9.chunk.css",
-    "static/js/main.ebc249bd.chunk.js"
+    "static/js/main.6c6b3188.chunk.js"
   ]
 }
